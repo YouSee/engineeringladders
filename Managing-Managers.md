@@ -90,8 +90,8 @@ In summary, understanding how each manager is performing on every area is a good
 # Other Pages
 
 * [**Introduction**](README.md)
-* [**Developer**](Developer.md)
+* [**Engineer**](Engineer.md)
 * [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
+* [**Staff Engineer**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)

@@ -1,23 +1,23 @@
-# Developer
+# Engineer
 
 Role also known as programmer or software engineer, requires a deep level of technical expertise.
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
-| 1 | No | [D1 - Developer 1](#d1---developer-1) |
-| 2 | No | [D2 - Developer 2](#d2---developer-2) |
-| 3 | No | [D3 - Developer 3](#d3---developer-3) |
-| 4 | Yes | [D4 - Developer 4](#d4---developer-4) |
-| 5 | Yes | [D5 - Developer 5](#d5---developer-5) |
-| 6 | Yes | [D6 - Developer 6](#d6---developer-6) |
-| 7 | Yes | [D7 - Developer 7](#d7---developer-7) |
+| 1 | No | [E1 - Engineer 1](#e1---engineer-1) |
+| 2 | No | [E2 - Engineer 2](#e2---engineer-2) |
+| 3 | No | [E3 - Engineer 3](#e3---engineer-3) |
+| 4 | Yes | [E4 - Engineer 4](#e4---engineer-4) |
+| 5 | Yes | [E5 - Engineer 5](#e5---engineer-5) |
+| 6 | Yes | [E6 - Engineer 6](#e6---engineer-6) |
+| 7 | Yes | [E7 - Engineer 7](#e7---engineer-7) |
 
-## D1 - Developer 1
+## E1 - Engineer 1
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-1-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-1.png">
-  <img alt="Developer 1" src="/charts/developer-1.png">
+  <img alt="Engineer 1" src="/charts/developer-1.png">
 </picture>
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team
@@ -26,12 +26,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Follows**: follows the team processes, delivering a consistent flow of features to production
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## D2 - Developer 2
+## E2 - Engineer 2
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-2-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-2.png">
-  <img alt="Developer 2" src="/charts/developer-2.png">
+  <img alt="Engineer 2" src="/charts/developer-2.png">
 </picture>
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team
@@ -40,12 +40,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## D3 - Developer 3
+## E3 - Engineer 3
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-3-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-3.png">
-  <img alt="Developer 3" src="/charts/developer-3.png">
+  <img alt="Engineer 3" src="/charts/developer-3.png">
 </picture>
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
@@ -54,12 +54,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D4 - Developer 4
+## E4 - Engineer 4
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-4-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-4.png">
-  <img alt="Developer 4" src="/charts/developer-4.png">
+  <img alt="Engineer 4" src="/charts/developer-4.png">
 </picture>
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
@@ -68,12 +68,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D5 - Developer 5
+## E5 - Engineer 5
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-5-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-5.png">
-  <img alt="Developer 5" src="/charts/developer-5.png">
+  <img alt="Engineer 5" src="/charts/developer-5.png">
 </picture>
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
@@ -82,12 +82,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## D6 - Developer 6
+## E6 - Engineer 6
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-6-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-6.png">
-  <img alt="Developer 6" src="/charts/developer-6.png">
+  <img alt="Engineer 6" src="/charts/developer-6.png">
 </picture>
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
@@ -96,12 +96,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the whole tech organization
 
-## D7 - Developer 7
+## E7 - Engineer 7
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-7-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-7.png">
-  <img alt="Developer 7" src="/charts/developer-7.png">
+  <img alt="Engineer 7" src="/charts/developer-7.png">
 </picture>
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
@@ -114,7 +114,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 * [**Introduction**](README.md)
 * [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
+* [**Staff Engineer**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
 * [**Managing Managers**](Managing-Managers.md)
