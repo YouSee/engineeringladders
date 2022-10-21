@@ -57,6 +57,6 @@ If you have other managers as direct reports, you might want to read the [Managi
 * [**Introduction**](README.md)
 * [**Engineer**](Engineer.md)
 * [**Tech Lead**](TechLead.md)
-* [**Staff Engineer**](TechnicalProgramManager.md)
+* [**Staff Engineer**](StaffEngineer.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
 * [**Managing Managers**](Managing-Managers.md)
