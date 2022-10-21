@@ -35,6 +35,6 @@ Having said that, although it is important for an Engineering Manager to be able
 * [**Introduction**](README.md)
 * [**Engineer**](Engineer.md)
 * [**Tech Lead**](TechLead.md)
-* [**Staff Engineer**](TechnicalProgramManager.md)
+* [**Staff Engineer**](StaffEngineer.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Managing Managers**](Managing-Managers.md)
