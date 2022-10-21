@@ -1,6 +1,6 @@
 # Engineer
 
-Role also known as programmer or software engineer, requires a deep level of technical expertise.
+Role also known as programmer or developer, requires a deep level of technical expertise.
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
