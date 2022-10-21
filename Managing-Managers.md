@@ -92,6 +92,6 @@ In summary, understanding how each manager is performing on every area is a good
 * [**Introduction**](README.md)
 * [**Engineer**](Engineer.md)
 * [**Tech Lead**](TechLead.md)
-* [**Staff Engineer**](TechnicalProgramManager.md)
+* [**Staff Engineer**](StaffEngineer.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
