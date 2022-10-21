@@ -2,8 +2,6 @@
 
 This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
 
-Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. Please use the information provided as a baseline and feel free adjust it to your needs.
-
 The framework relies heavily in radar charts to show visually the different perspectives and expectations of a given position:
 
 <picture>
@@ -16,7 +14,7 @@ The framework relies heavily in radar charts to show visually the different pers
 
 The framework has 4 different ladders:
 
-* [**Engineer**](Engineer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
+* [**Engineer**](Engineer.md): role also known as programmer or developer, requires a deep level of technical expertise
 * [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
 * [**Staff Engineer**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that span multiple teams
 * [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
@@ -86,11 +84,11 @@ Keep reading to better understand each level.
 
 ## Influence
 
-1. **Subsystem**: makes an impact on one or more subsystems
-2. **Team**: makes an impact on the whole team, not just on specific parts of it
-3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
-4. **Company**: makes an impact on the whole tech organization
-5. **Community**: makes an impact on the tech community
+1. **Subsystem**: makes an impact on one or more subsystems (eg. Android Team)
+2. **Team**: makes an impact on the whole team, not just on specific parts of it (eg. Frontend Team)
+3. **Multiple Teams**: makes an impact not only his/her team but also on other teams (i.e. Entertainment)
+4. **Company**: makes an impact on the whole tech organization (i.e. Nuuday)
+5. **Community**: makes an impact on the tech community (eg. Google Developer Advocate)
 
 # FAQs
 
@@ -98,13 +96,9 @@ Keep reading to better understand each level.
 
 That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
 
-**What if my organization's career ladder is different?**
-
-Since the framework is open source, you have the opportunity to adapt it to your organization. Feel free to use the [chart template](charts/template.png) to define your own levels.
-
 **When is a person ready to move to the next level?**
 
-Companies usually expect a person to be performing at the next level *consistently for several months* before formalizing a promotion.
+You are expected to be performing at the next level *consistently for several months* before formalizing a promotion.
 
 **How do I collect evidence to support the discussion with my direct reports?**
 
@@ -119,7 +113,7 @@ Specific examples of behavior require knowledge about the way that the team work
 
 **Why does the framework stop at level 7?**
 
-Levels 8 and above vary drastically from company to company. Organizations of different sizes tend to assign a diverse level of scope to positions so high in their structure.
+Levels 8 and above vary drastically from teams to teams. We will continue evolving this framework to find out next levels.
 
 **Do you have any additional resources about the topic?**
 
