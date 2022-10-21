@@ -1,5 +1,3 @@
-# Work In Progress
-
 # Introduction
 
 This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
