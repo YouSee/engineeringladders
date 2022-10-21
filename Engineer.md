@@ -114,7 +114,7 @@ Role also known as programmer or developer, requires a deep level of technical e
 
 * [**Introduction**](README.md)
 * [**Tech Lead**](TechLead.md)
-* [**Staff Engineer**](TechnicalProgramManager.md)
+* [**Staff Engineer**](StaffEngineer.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
 * [**Managing Managers**](Managing-Managers.md)
