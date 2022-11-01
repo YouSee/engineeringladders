@@ -21,15 +21,15 @@ The framework has 4 different ladders:
 
 If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
 
-| Level | Senior | [Engineer](Engineer.md) | [Tech Lead](TechLead.md) | [Staff Engineer](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
+| Level | Senior | [Engineer](Engineer.md) | [Tech Lead](TechLead.md) | [Staff Engineer](StaffEngineer.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
 | 1 | No | [E1](Engineer.md#e1---engineer-1) | | | |
 | 2 | No | [E2](Engineer.md#e2---engineer-2) | | | |
 | 3 | No | [E3](Engineer.md#e3---engineer-3) | | | |
-| 4 | Yes | [E4](Engineer.md#e4---engineer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [SE4](TechnicalProgramManager.md#SE4---staff-engineer-4) | |
-| 5 | Yes | [E5](Engineer.md#e5---engineer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [SE5](TechnicalProgramManager.md#SE5---staff-engineer-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Yes | [E6](Engineer.md#d6---engineer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [SE6](TechnicalProgramManager.md#SE6---staff-engineer-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Yes | [E7](Engineer.md#d7---engineer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [SE7](TechnicalProgramManager.md#SE7---staff-engineer-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| 4 | Yes | [E4](Engineer.md#e4---engineer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [SE4](StaffEngineer.md#SE4---staff-engineer-4) | |
+| 5 | Yes | [E5](Engineer.md#e5---engineer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [SE5](StaffEngineer.md#SE5---staff-engineer-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+| 6 | Yes | [E6](Engineer.md#d6---engineer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [SE6](StaffEngineer.md#SE6---staff-engineer-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
+| 7 | Yes | [E7](Engineer.md#d7---engineer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [SE7](StaffEngineer.md#SE7---staff-engineer-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click on position name for more details)
 
