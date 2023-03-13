@@ -86,8 +86,8 @@ Keep reading to better understand each level.
 
 1. **Subsystem**: makes an impact on one or more subsystems (eg. Android Team)
 2. **Team**: makes an impact on the whole team, not just on specific parts of it (eg. Frontend Team)
-3. **Multiple Teams**: makes an impact not only his/her team but also on other teams (i.e. Entertainment)
-4. **Company**: makes an impact on the whole tech organization (i.e. Nuuday)
+3. **Multiple Teams**: makes an impact not only his/her team but also on other teams (i.e. Frontend Team and Backend Team)
+4. **Company**: makes an impact on the whole tech organization (i.e. whole Entertainment or Nuuday)
 5. **Community**: makes an impact on the tech community (eg. Google Developer Advocate)
 
 # FAQs
