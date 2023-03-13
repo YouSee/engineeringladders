@@ -121,6 +121,10 @@ Levels 8 and above vary drastically from teams to teams. We will continue evolvi
 
 * [How to Be Good at Performance Appraisals](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295): Dick Grote explains in simple terms how to define job responsibilities and how to evaluate performance (results and behaviors).
 
+**How can this be applied on QA team?**
+
+* [QA Engineer Ladder](https://wiki.nuuday.dk/display/DQA/QA+Engineering+Ladder): Please refer to this wiki for elaboration/examples for QA.
+
 # Other Pages
 
 * [**Engineer**](Engineer.md)
